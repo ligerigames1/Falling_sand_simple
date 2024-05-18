@@ -5,9 +5,9 @@ TAB: Switch sand element
 Left click: painting sand
 
 Sand type:
-° Sand
-° Water
-° Fire
-° Explosion (destroys tiles)
-° Gravel
-° Steam
+° Sand \n
+° Water \n
+° Fire \n
+° Explosion (destroys tiles) \n
+° Gravel \n
+° Steam \n
