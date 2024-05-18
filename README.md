@@ -5,9 +5,9 @@ Controlls:
 	Left click: painting sand
 
 Sand type:
-	° Sand 
-	° Water 
-	° Fire 
-	° Explosion (destroys tiles) 
-	° Gravel 
-	° Steam 
+	'Sand '
+	'Water '
+	'Fire '
+	'Explosion (destroys tiles) '
+	'Gravel '
+	'Steam '
