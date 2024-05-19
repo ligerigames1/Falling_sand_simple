@@ -4,7 +4,6 @@ import time
 
 # Константы
 WIDTH, HEIGHT = 600, 400
-pygame.display.set_caption("Джеф безос")
 CELL_SIZE = 5
 GRID_WIDTH, GRID_HEIGHT = WIDTH // CELL_SIZE, HEIGHT // CELL_SIZE
 WHITE = (0, 0, 0)
