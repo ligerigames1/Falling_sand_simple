@@ -1,4 +1,4 @@
-Its simple falling sand simulation
+Its simple falling sand simulation in python
 
 Controlls:
 	TAB: Switch sand element
